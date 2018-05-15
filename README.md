@@ -3,8 +3,8 @@
 Overview
 
 Topics
-  Tech Job Readiness
-  Technical Interviewing
+* Tech Job Readiness
+* Technical Interviewing
   
 Resources
 
