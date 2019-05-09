@@ -9,7 +9,7 @@ Past
 * 5/8/2019 Wed 6-9pm | Technical Interviewing Overview @ Tech Academy
 
 Monthly Meetup Series Topics 
-1. Technical Interviewing Overview (5/9/19) [Notes](https://docs.google.com/presentation/d/1fGZbsOynWq1WYsr9pZPmkbZEWZ7clstP83L6Wl5WQFw/edit?usp=sharing) 
+1. Technical Interviewing Overview (5/9/19) [Notes](https://github.com/CodeOregon/Meetup/blob/master/Meetup%201%20Technical%20Interviewing%20Overview.pdf) 
 2. Whiteboard Demo: Algorithm Questions (6/12/19) [RSVP](http://www.meetup.com/CodeOregon/) 
 3. Guest Topic (7/10/19 - tentative) 
 4. Whiteboard Demo: Data Structures Questions (8/14/19 - tentative) 
