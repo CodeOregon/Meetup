@@ -32,5 +32,8 @@ Community Links
 * [ChickTech](https://chicktech.org/)
 * [Get Hired in Tech (Vancouver)](https://www.meetup.com/Vancouver-Networking-for-Tech-Job-Seekers/)
 
+Rando Links
+* [Google Foobar Challenge article](https://medium.freecodecamp.org/the-foobar-challenge-googles-hidden-test-for-developers-ed8027c1184)
+
 
 [Code Oregon Meetup](http://www.meetup.com/CodeOregon/)
